@@ -27,7 +27,7 @@ I'm a **Full-Stack Developer** from 🇲🇦 **Morocco**, passionate about build
 ---
 
 📫 **Let’s Connect**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ouali-24240b1aa) *(update if needed)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ouali-24240b1aa)
 - 💼 Available for freelance or remote full-time roles
 - 📍 Based in Tanger-Tétouan-Al Hoceïma, Morocco
 
