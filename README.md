@@ -3,4 +3,4 @@
 
 ---
 
-> “Code is not just what I do — it’s how I solve, create, and grow.”
+> “Code is not just what I do it’s how I solve, create, and grow.”
